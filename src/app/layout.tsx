@@ -26,9 +26,9 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Nikhil Rajput",
+  title: "Muhammad Abdullah",
   description:
-    "Nikhil Rajput is a proficient Software Engineer and Full Stack Developer from India, skilled in front-end and back-end development using modern tech stacks.",
+    "Muhammad Abdullah is a proficient Software Engineer and Full Stack Developer from Pakistan, skilled in front-end and back-end development using modern tech stacks.",
   robots: {
     index: true,
     follow: true,
@@ -49,16 +49,15 @@ export const metadata: Metadata = {
     },
   ],
   keywords: [
-    "nikhil rajput",
-    "nikhil",
-    "nixrajput",
-    "nikhil-rajput",
-    "rajput nikhil",
-    "founder of nixlab",
-    "nixlab founder",
+    "Muhammad Abdullah",
+    "abdullah",
+    "ranaabdullah",
+    "rana-abdullah",
+    "abdullah muhammad",
+    "abdullah founder",
     "full stack developer",
-    "indian developer",
-    "nixrajput github",
+    "Pakistan developer",
+    "ranaabdullahdev github",
   ],
 };
 

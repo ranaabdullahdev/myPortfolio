@@ -1,5 +1,6 @@
-import { ISkillListItem, SkillLevel } from "@/types";
+// @ts-nocheck
 
+import { ISkillListItem, SkillLevel } from "@/types";
 const skills: ISkillListItem[] = [
   {
     title: "Programming Languages",
@@ -13,11 +14,6 @@ const skills: ISkillListItem[] = [
         title: "TypeScript",
         level: SkillLevel.Intermediate,
         icon: "/skills/typescript.svg",
-      },
-      {
-        title: "Dart",
-        level: SkillLevel.Expert,
-        icon: "/skills/dart.svg",
       },
     ],
   },
@@ -90,9 +86,9 @@ const skills: ISkillListItem[] = [
         icon: "/skills/flutter.svg",
       },
       {
-        title: "GetX",
+        title: "ReactNative",
         level: SkillLevel.Expert,
-        icon: "/skills/getx.png",
+        icon: "/skills/reactNative.png",
       },
     ],
   },
@@ -113,6 +109,11 @@ const skills: ISkillListItem[] = [
         title: "MySQL",
         level: SkillLevel.Begginer,
         icon: "/skills/mysql.svg",
+      },
+      {
+        title: "Firebase",
+        level: SkillLevel.Intermediate,
+        icon: "/skills/firebase.svg",
       },
     ],
   },
@@ -141,41 +142,7 @@ const skills: ISkillListItem[] = [
       },
     ],
   },
-  {
-    title: "Miscellaneous",
-    items: [
-      {
-        title: "Firebase",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/firebase.svg",
-      },
-      {
-        title: "Ubuntu",
-        level: SkillLevel.Intermediate,
-        icon: "/skills/ubuntu.png",
-      },
-    ],
-  },
-  {
-    title: "Nontechnical Skills",
-    items: [
-      {
-        title: "Problem Solving",
-        level: SkillLevel.Expert,
-        icon: "/images/logical-thinking.png",
-      },
-      {
-        title: "Collaboration",
-        level: SkillLevel.Expert,
-        icon: "/images/collaboration.png",
-      },
-      {
-        title: "Analytical Skills",
-        level: SkillLevel.Expert,
-        icon: "/images/analytical-skills.png",
-      },
-    ],
-  },
+ ,
 ];
 
 export default skills;

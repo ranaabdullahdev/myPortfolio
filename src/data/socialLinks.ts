@@ -22,24 +22,24 @@ const socialLinks: ISocialLinkItem[] = [
     icon: faLinkedin,
     text: Strings.linkedInUsername,
   },
-  {
-    name: Strings.telegram,
-    url: Strings.telegramLink,
-    icon: faTelegram,
-    text: Strings.telegramUsername,
-  },
+  // {
+  //   name: Strings.telegram,
+  //   url: Strings.telegramLink,
+  //   icon: faTelegram,
+  //   text: Strings.telegramUsername,
+  // },
   {
     name: Strings.instagram,
     url: Strings.instagramLink,
     icon: faInstagram,
     text: Strings.instagramUsername,
   },
-  {
-    name: Strings.twitter,
-    url: Strings.twitterLink,
-    icon: faXTwitter,
-    text: Strings.twitterUsername,
-  },
+  // {
+  //   name: Strings.twitter,
+  //   url: Strings.twitterLink,
+  //   icon: faXTwitter,
+  //   text: Strings.twitterUsername,
+  // },
   {
     name: Strings.email,
     url: Strings.primaryEmailLink,
