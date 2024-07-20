@@ -27,14 +27,12 @@ const HomeSection6 = ({ id }: { id: string }) => {
                 />
               );
             })}
-
-        
           </GridBox>
 
           <p className="text-center mx-auto mt-16 text-2xl/6 font-semibold">
-            I&apos;m{" "}
-            <span className="text-[var(--primaryColor)]">available</span> for
-            freelancing.
+            Transform your{" "}
+            <span className="text-[var(--primaryColor)]">ideas—expert</span>{" "}
+            freelance developer available!
           </p>
         </Column>
       </ConstraintedBox>
