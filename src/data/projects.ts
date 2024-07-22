@@ -106,7 +106,7 @@ const projects: IProjectItem[] = [
       "MAPS APIS",
       "GITHUB",
       "THIRD PART INTEGRAION",
-      "SRIPE"
+      "STRIPE",
     ],
   },
   {
