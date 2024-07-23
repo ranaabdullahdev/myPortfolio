@@ -26,7 +26,7 @@ const poppins = Poppins({
 });
 
 export const metadata: Metadata = {
-  title: "Muhammad Abdullah",
+  title: "Virtuous Stack",
   description:
     "Muhammad Abdullah is a proficient Software Engineer and Full Stack Developer from Pakistan, skilled in front-end and back-end development using modern tech stacks.",
   robots: {

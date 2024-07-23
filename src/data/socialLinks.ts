@@ -28,12 +28,12 @@ const socialLinks: ISocialLinkItem[] = [
   //   icon: faTelegram,
   //   text: Strings.telegramUsername,
   // },
-  {
-    name: Strings.instagram,
-    url: Strings.instagramLink,
-    icon: faInstagram,
-    text: Strings.instagramUsername,
-  },
+  // {
+  //   name: Strings.instagram,
+  //   url: Strings.instagramLink,
+  //   icon: faInstagram,
+  //   text: Strings.instagramUsername,
+  // },
   // {
   //   name: Strings.twitter,
   //   url: Strings.twitterLink,

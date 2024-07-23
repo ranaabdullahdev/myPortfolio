@@ -21,25 +21,25 @@ const HomeSection1 = ({ id }: Readonly<{ id: string }>) => {
         <Column classNames="w-full items-center justify-center">
           <div className="inline-flex items-center">
             <p className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--textColor)] text-[var(--textColor)] font-bold text-center">
-              Hi there, I am
+              Welcome to
             </p>
             <FlipWords
-              words={["Abdullah", "@ranaabdullah"]}
+              words={["Virtuousstack", "A Leading Software Company"]}
               className="text-2xl/normal sm:text-3xl/normal md:text-5xl/normal lg:text-6xl/normal xl:text-7xl/normal dark:text-[var(--primaryColor)] text-[var(--primaryColor)] font-bold text-center"
             />
           </div>
-          <p className="text-sm/normal md:text-base/normal dark:text-[var(--textColorLight)] text-[var(--textColorLight)]">
-            Software Engineer & Full Stack Developer
+          <p className="text-sm/normal md:text-2xl font-bold dark:text-[var(--textColorLight)] text-[var(--textColorLight)]">
+            Innovate, Integrate, Elevate
           </p>
 
           <div className="gap-4 mt-12 lg:mt-16 flex flex-col md:flex-row">
             <TalkButton />
-            <ResumeButton />
+            {/* <ResumeButton /> */}
           </div>
         </Column>
 
         <div className="mt-12 lg:mt-16 w-full flex flex-col items-center">
-          <p className="text-base/6 font-medium">Follow me here</p>
+          <p className="text-base/6 font-medium">Follow us here</p>
 
           <Row classNames="mt-2 gap-2">
             {socialLinks.slice(0, 5).map((link, index) => {
