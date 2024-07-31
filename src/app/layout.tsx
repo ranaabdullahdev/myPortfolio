@@ -57,6 +57,7 @@ export const metadata: Metadata = {
     "abdullah founder",
     "full stack developer",
     "Pakistan developer",
+    "MERN stack developer",
     "ranaabdullahdev github",
   ],
 };
