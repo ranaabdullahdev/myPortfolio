@@ -51,6 +51,8 @@ export const metadata: Metadata = {
   keywords: [
     "Muhammad Abdullah",
     "abdullah",
+    "Software Engineer",
+    "Full Stack Developer",
     "Abdullah",
     "ranaabdullah",
     "rana-abdullah",
@@ -59,7 +61,6 @@ export const metadata: Metadata = {
     "full stack developer",
     "MERN stack developer",
     "ranaabdullahdev github",
-
   ],
 };
 
