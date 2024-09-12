@@ -54,6 +54,8 @@ export const metadata: Metadata = {
     "Software Engineer",
     "Full Stack Developer",
     "Abdullah",
+    "Muhammad",
+    "Developer",
     "ranaabdullah",
     "rana-abdullah",
     "abdullah muhammad",
